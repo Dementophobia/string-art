@@ -8,7 +8,7 @@ This page is dedicated to my Evan Rachel Wood String Art portrait. If you want t
 Canvas size:	60cm x 60cm
 Nails per side:	200 nails
 String used:	~3.000 meters of black sewing thread (one single string)
-Backlight:		Modified Auraglow 40w LED Square Ceiling Panel (6000K)
+Backlight:	Modified Auraglow 40w LED Square Ceiling Panel (6000K)
 ```
 
 ## The Backlight Technique
