@@ -16,6 +16,7 @@ On the left side below you see all the raw material I use to create string art. 
 
 <p align="center"><img src="./images/raw_material.jpg"></p>
 
+
 ## Early Experiments
 
 While the idea is quite simple in theory, I had no idea if it would really work out on an actual canvas. Initially, I created several prototypes on smaller canvases and different types of string. There were several things I realized during my experiments:
@@ -27,7 +28,6 @@ While the idea is quite simple in theory, I had no idea if it would really work 
 Here are some of my early prototypes that helped me to shape my technique.
 
 <p align="center"><img src="./images/early_experiments.jpg"></p>
-
 On the left you can see Bob Odenkirk (as Saul from "Better Call Saul") and on the right it tried my luck with Emilia Clarke (as Daenerys Targaryen from "Game of Thrones"). Saul was my smallest attempt on a 20cm x 20cm canvas with 50 nails on each side. Daenerys was my first try on a 40cm x 40cm canvas with 60 nails on each side. You can see the difference in detail, but unfortunately Daenerys turned out darker than I expected and her hairline isn't clear enough. Based on those early results I decided that I had to increase the size of the canvas and especially the amount of nails on each side to get to the level of detail I was aiming for.
 
 ## Finished Portraits
@@ -37,6 +37,7 @@ So far I have finished two pieces of art that I am really satisfied with.
 The first one is a portrait of Natalie Dormer, inspired by her performance on Game of Thrones as Margaery Tyrell. The canvas has a size of 70cm x 70cm with 150 nails on each side. I used at least 3.500 meters of sewing thread. The whole process took me about 30 hours from start to finish. Here is the final result which currently watches over my living room.
 
 <p align="center"><img src="./images/natalie_dormer.jpg"></p>
+
 You can also take a look at the [Making-of Natalie Dormer String-Art](./making-of-natalie-dormer-string-art/README.md#natalie-dormer-string-art-portrait) to follow the creation process step by step and see a higher resolution photo.
 
 The second one is a portrait of Evan Rachel Wood, inspired by her performance on Westworld as Dolores Abernathy. The canvas has a size of 60cm x 60cm with 200 nails on each side. I used at least 3.000 meters of sewing thread. It is my first portrait using a backlight to increase the depth of the image. The whole process took me about 40 hours from start to finish, including my research to develop the backlight technique.
@@ -48,9 +49,9 @@ You will find more details about the portrait and the backlight technique in the
 
 ## Current Project
 
-For me next project, I will work with a custom made, high quality picture frame. I am currently in the process of manufacturing the frame itself. The specs will (most likely) be 70cm x 70cm, 230 hooks an each side and a transparent background.
+For my next project, I will work with a custom made, high quality picture frame. The frame is already finished, the portrait itself is in the making. The specs of the new frame are 70cm x 70cm with 220 hooks on each side and a transparent background. I assembled a short [making-of](./making-of-wooden-frame/README.md#making-of-the-wooden-frame) for those of you interested in the details.
 
-I'll post updates here when the frame is done.
+I'll post updates here when the portrait is done.
 
 # About the Artist
 
